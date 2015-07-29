@@ -1,0 +1,12 @@
+.jumbotron {
+	background-image: url(`);
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+}
+
+.glyphicon-apple{
+	font-size: 2.5em;
+	color: red;
+}
